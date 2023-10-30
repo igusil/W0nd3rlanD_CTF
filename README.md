@@ -14,4 +14,4 @@ ao encontrar essa pagina, verifique o codigo. podemos identificar um possivel us
 ------------------------------------------------------------------------------------------------------------------------------------
 
 conseguimos os acesso com user e pass encontrados no html, e encontramos a nossa primeira flag.  -->  thm{}
-![Screenshot from 2023-10-29 22-27-42](https://github.com/igusil/W0nd3rlanD_CTF/assets/89313216/663bce01-dd8c-49b2-8762-8a93f77a692b)
+![Screenshot from 2023-10-29 22-30-20](https://github.com/igusil/W0nd3rlanD_CTF/assets/89313216/6eb1c8a9-8b8d-4a58-8f42-d569801bd930)
