@@ -15,3 +15,13 @@ ao encontrar essa pagina, verifique o codigo. podemos identificar um possivel us
 
 conseguimos os acesso com user e pass encontrados no html, e encontramos a nossa primeira flag.  -->  thm{}
 ![Screenshot from 2023-10-29 22-30-20](https://github.com/igusil/W0nd3rlanD_CTF/assets/89313216/6eb1c8a9-8b8d-4a58-8f42-d569801bd930)
+
+temos um script python no diretório, ele possui uma coleção de linhas diferentes que são impressas aleatoriamente.
+![Screenshot from 2023-10-30 22-08-52](https://github.com/igusil/W0nd3rlanD_CTF/assets/89313216/952dfc84-450d-422a-a8b4-54b0151083ba)
+
+verificamos a permissão sudo para tentar encontrar binarios ou arquivos que o usuário atual pode executar com privilégios elevados.
+podemos executar walrus_and_the_carpenter.py com python3.6
+
+![Screenshot from 2023-10-30 22-13-41](https://github.com/igusil/W0nd3rlanD_CTF/assets/89313216/81cb26a0-74a2-40c9-ad39-937505a406db)
+
+
