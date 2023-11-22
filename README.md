@@ -24,4 +24,4 @@ podemos executar walrus_and_the_carpenter.py com python3.6
 
 ![Screenshot from 2023-10-30 22-13-41](https://github.com/igusil/W0nd3rlanD_CTF/assets/89313216/81cb26a0-74a2-40c9-ad39-937505a406db)
 
-
+**************************************************************************************************************************************
